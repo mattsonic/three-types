@@ -1,0 +1,6 @@
+{
+    "name": "three-types",
+    "author": "Matt Sonic",
+    "version": "1.0.0",
+    "types": "./types/three/index.d.ts"
+}
