@@ -1,4 +1,4 @@
-import { Line, LineBasicMaterial, Geometry } from "three";
+import { Line, LineBasicMaterial, Geometry } from "./three-core";
 
 export class LineMaterial extends LineBasicMaterial {
 }
